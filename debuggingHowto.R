@@ -12,5 +12,6 @@ soptions(warn=2) # turn warnings into errors
 
 soptions(error=dump.frames)
 #soptions(error=recover)
+#traceback()
 # hop into the debugger and examine the environments
 #debugger()
