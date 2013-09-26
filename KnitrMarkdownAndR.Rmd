@@ -1,9 +1,12 @@
 Knitr, Markdown and Workflow for R Reports
 ========================================================
 
+Goal: To show some tools for making it easier to publish your work in R, with an example of preparing updated performance reports. Along the way to teach some basics of good software engineering practice.
+
 Knitr is a tool for creating documents which combine text and code, and the result of executing that code. It's a descendant of Knuth's _Literate Programming_ which is closely related to the R documentation tool chain SWEAVE (R code + processor -> LaTeX -> pdf or html).
 
-Some definitions:
+Some definitions
+----------------
 
 markup: Additional punctuation, for indicating parts of a document. 
 
